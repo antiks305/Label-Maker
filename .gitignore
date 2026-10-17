@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Label Maker local data and personal files
+saved_labels.json
+ingredients.json
+logo_settings.json
+PDFs/
+logos/
+
+# Installer output
+*.msi
