@@ -25,6 +25,10 @@ The application is a functional prototype that can be further developed and adap
 - PySide6
 - ReportLab
 
+## Screenshot
+
+![Label Maker application preview](screenshots/label-maker-preview.png)
+
 ## Getting Started
 
 ### Prerequisites
